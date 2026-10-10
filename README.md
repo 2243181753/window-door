@@ -24,7 +24,7 @@
 
 第一次使用建议先按 [图文使用指南](docs/使用指南.md) 完成授权和窗口选择，再按需要开启摄像头守护。
 
-[观看 / 下载完整教学视频](https://github.com/2243181753/window-door/releases/download/v1.0.3/window-door-tutorial.mp4)（7 分 25 秒，约 603 MB）。视频与截图由作者提供。
+[观看 / 下载完整教学视频](https://github.com/2243181753/window-door/releases/download/v1.0.3/window-door-tutorial.mp4)（7 分 25 秒，约 26 MB）。视频与截图由作者提供。视频已压缩，保留完整时长与声音。
 
 <table>
 <tr><th>图标模式</th><th>文字模式</th></tr>
