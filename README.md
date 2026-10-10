@@ -16,6 +16,10 @@
 - 本机主人识别、角度学习、背景运动检测与自定义手势保护。
 - 条件允许显示时生效的快捷键；设置与学习结果自动保存。
 
+## 下载
+
+[下载最新版本](https://github.com/2243181753/window-door/releases/latest)。选择 `window-door-1.0.3-macos-arm64.zip` 下载软件；源码可通过仓库 Code → Download ZIP，或版本页 Source code 下载。
+
 ## 构建与运行
 
 安装 Xcode Command Line Tools。进入项目目录，执行：
