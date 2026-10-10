@@ -20,6 +20,19 @@
 
 [下载最新版本](https://github.com/2243181753/window-door/releases/latest)。选择 `window-door-1.0.3-macos-arm64.zip` 下载软件；源码可通过仓库 Code → Download ZIP，或版本页 Source code 下载。
 
+## 使用教程
+
+第一次使用建议先按 [图文使用指南](docs/使用指南.md) 完成授权和窗口选择，再按需要开启摄像头守护。
+
+[观看 / 下载完整教学视频](https://github.com/2243181753/window-door/releases/download/v1.0.3/window-door-tutorial.mp4)（7 分 25 秒，约 603 MB）。视频与截图由作者提供。
+
+<table>
+<tr><th>图标模式</th><th>文字模式</th></tr>
+<tr><td><img src="docs/images/menu-icons.jpg" width="320" alt="视窗之门图标菜单"></td><td><img src="docs/images/menu-labels.jpg" width="320" alt="视窗之门文字菜单"></td></tr>
+</table>
+
+点击底部 `Aa` 切换图标与功能名称；白色按钮表示开启，灰暗按钮表示关闭或当前不可用。点击问号开启悬停说明。
+
 ## 构建与运行
 
 安装 Xcode Command Line Tools。进入项目目录，执行：
