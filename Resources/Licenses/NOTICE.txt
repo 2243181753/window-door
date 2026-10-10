@@ -1,0 +1,14 @@
+Third-party components included in 视窗之门:
+
+OpenCV Zoo SFace 2021dec model by Yaoyao Zhong; ONNX conversion by Chengrui Wang.
+https://github.com/opencv/opencv_zoo/tree/main/models/face_recognition_sface
+All files in the upstream SFace directory are licensed under Apache License 2.0.
+Full license: SFace-LICENSE. Five-point template follows OpenCV's FaceRecognizerSF.
+
+Microsoft ONNX Runtime 1.22.1, universal2 native library and C API header.
+https://github.com/microsoft/onnxruntime
+Copyright (c) Microsoft Corporation. MIT License: ONNXRuntime-LICENSE.
+Runtime binary is bundled, and its telemetry is disabled.
+
+Public sample validation used ageitgey/face_recognition examples.
+Those photos are not included in this software or its source delivery.

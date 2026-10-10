@@ -1,0 +1,22 @@
+{
+  "face_model": {
+    "name": "OpenCV Zoo SFace 2021dec",
+    "source": "https://github.com/opencv/opencv_zoo/tree/main/models/face_recognition_sface",
+    "url": "https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/face_recognition_sface/face_recognition_sface_2021dec.onnx",
+    "sha256": "0ba9fbfa01b5270c96627c4ef784da859931e02f04419c829e83484087c34e79",
+    "license": "Apache-2.0",
+    "input": "RGB float NCHW 1x3x112x112, range 0..255",
+    "output": "128D L2 normalized embedding"
+  },
+  "runtime": {
+    "name": "Microsoft ONNX Runtime",
+    "version": "1.22.1",
+    "source": "https://pypi.org/project/onnxruntime/1.22.1/",
+    "original_dylib_sha256": "114a54d0c08cc94c68dba8a30dbc16627e543f978c345e016f67e46f8b727c51",
+    "license": "MIT",
+    "telemetry": "disabled in code"
+  },
+  "identity_profile_schema": 3,
+  "cosine_threshold": 0.55,
+  "scope": "All inference local, no camera/audio upload"
+}

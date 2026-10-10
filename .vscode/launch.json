@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "调试视窗之门",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/视窗之门.app/Contents/MacOS/HoverPortal",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "视窗之门: 调试"
+    }
+  ]
+}

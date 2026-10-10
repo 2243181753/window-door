@@ -1,0 +1,17 @@
+.build/
+.swiftpm/
+.DS_Store
+*.app/
+*.dmg
+*.zip
+*-verification.json
+*-preview.png
+*-diagnostic.json
+menu-verification.json
+owner.sface.*
+peace.gesture.*
+viewing.angles.*
+*.p12
+*.mobileprovision
+*.provisionprofile
+.env
